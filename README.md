@@ -31,3 +31,5 @@ Pipeline de dados simulando o controle de estoque de uma empresa.
 ## ⚠️ Observação
 Projeto desenvolvido para portfólio durante estudos de análise de dados.
 Dados fictícios gerados com Python para fins de demonstração.
+
+Utilizei também um apoio do Claude AI, que foi a ferramenta de inteligência artificial que me apoio de modo técnico neste projeto.
