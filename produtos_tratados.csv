@@ -1,0 +1,21 @@
+id,nome,categoria,estoque_minimo,saldo,status
+1,Produto 001,Eletrônicos,5,-17,Repor
+2,Produto 002,Limpeza,12,204,OK
+3,Produto 003,Alimentos,9,96,OK
+4,Produto 004,Eletrônicos,7,-45,Repor
+5,Produto 005,Escritório,6,120,OK
+6,Produto 006,Eletrônicos,7,-56,Repor
+7,Produto 007,Alimentos,12,-103,Repor
+8,Produto 008,Eletrônicos,11,-7,Repor
+9,Produto 009,Escritório,12,31,OK
+10,Produto 010,Escritório,13,54,OK
+11,Produto 011,Eletrônicos,10,-35,Repor
+12,Produto 012,Escritório,15,67,OK
+13,Produto 013,Limpeza,9,11,OK
+14,Produto 014,Alimentos,15,2,Repor
+15,Produto 015,Eletrônicos,7,-71,Repor
+16,Produto 016,Escritório,8,81,OK
+17,Produto 017,Limpeza,16,-52,Repor
+18,Produto 018,Limpeza,6,-52,Repor
+19,Produto 019,Escritório,8,-126,Repor
+20,Produto 020,Escritório,7,101,OK

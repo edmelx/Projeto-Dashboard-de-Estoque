@@ -1,0 +1,21 @@
+id,nome,categoria,estoque_minimo
+1,Produto 001,Eletrônicos,5
+2,Produto 002,Limpeza,12
+3,Produto 003,Alimentos,9
+4,Produto 004,Eletrônicos,7
+5,Produto 005,Escritório,6
+6,Produto 006,Eletrônicos,7
+7,Produto 007,Alimentos,12
+8,Produto 008,Eletrônicos,11
+9,Produto 009,Escritório,12
+10,Produto 010,Escritório,13
+11,Produto 011,Eletrônicos,10
+12,Produto 012,Escritório,15
+13,Produto 013,Limpeza,9
+14,Produto 014,Alimentos,15
+15,Produto 015,Eletrônicos,7
+16,Produto 016,Escritório,8
+17,Produto 017,Limpeza,16
+18,Produto 018,Limpeza,6
+19,Produto 019,Escritório,8
+20,Produto 020,Escritório,7
